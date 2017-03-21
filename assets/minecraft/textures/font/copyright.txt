@@ -9,7 +9,7 @@ unicode_page_96.png
 unicode_page_97.png
 unicode_page_98.png
 
-Copyright (c) 2016 rexbut
+Copyright (c) 2016-2017 rexbut
 
 You may redistribute or modify these resources as you wish, but this copyright notice must be distributed alongside them.
 
